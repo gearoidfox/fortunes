@@ -9,5 +9,5 @@ With superuser privileges:
 
 ## Files
 
-8ball - magic 8-ball replies.
-sonnets - Shakespeare's sonnets.
+- 8ball - magic 8-ball replies.
+- sonnets - Shakespeare's sonnets.
