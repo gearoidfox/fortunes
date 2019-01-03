@@ -10,4 +10,5 @@ With superuser privileges:
 ## Files
 
 - 8ball - magic 8-ball replies.
+- ferengi - Ferengi [Rules of Acquistion](https://en.wikipedia.org/wiki/Rules_of_Acquisition).
 - sonnets - Shakespeare's sonnets.
