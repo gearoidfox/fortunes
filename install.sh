@@ -1,5 +1,5 @@
 #!/bin/sh
-for fortune in 8ball ferengi sonnets; do
+for fortune in 8ball ferengi haiku sonnets; do
         cp $fortune /usr/share/games/fortunes/
         if [ "$?" -ne 0 ]; then
                 echo "Installation error, aborting."
